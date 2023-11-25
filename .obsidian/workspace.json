@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "a43be4dd5e89f464",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea33f82a0905cae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86acbcbdbde95330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Händelse/Drake i Easthaven.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0920e243385df027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Händelse/Drake i Easthaven.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb2ff5422f901131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Händelse/Drake i Easthaven.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5878271ad02ca35b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0fde6e8040c8b2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f12f1516e3d5948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8016fd5106769092",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4640b7ca23e8c642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94ca400ca2300711",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a3193370b66893c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc24218cc0e0950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a4e09771952991",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d88a3b5a777ff2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b70fa7b833a6814",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b54ef02275793a46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5878271ad02ca35b",
+  "lastOpenFiles": [
+    "Städer/Dougans Hold.md",
+    "Händelse/Drake i Easthaven.md",
+    "Städer/Good Mead.md",
+    "Städer/Easthaven.md",
+    "Händelse",
+    "Städer/Ten-Towns.md",
+    "Städer/Termlaine.md",
+    "2023-11-25.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Faktioner/Arkana Brödrarskapet.md",
+    "Personer/Duvessa.md",
+    "Städer/Bryn Shander.md",
+    "Övriga Platser/Revels End.md",
+    "Övriga Platser/Dvärgdalen.md",
+    "Städer/Targos.md",
+    "Städer/Lonelywood.md",
+    "Städer/Caer Konig.md",
+    "Städer/Caer Dineval.md",
+    "Övriga Platser/Lac-dinnesheres.md",
+    "Gudar/Auril.md",
+    "Övriga Platser/Kamouraska.md",
+    "Övriga Platser/Kelvin's Cairn.md",
+    "Övriga Platser/Jättarnas heliga plats.md",
+    "Övriga Platser/Båten på tundran.md",
+    "Rykten/Rykten.md",
+    "Övriga Platser/Shaengarne River.md",
+    "Rykten",
+    "Gudar/Ogma.md",
+    "Gudar/Lathander.md",
+    "Gudar",
+    "Allmänna Anteckningar",
+    "Allmänna Anteckningar/Untitled",
+    "Prylar etc",
+    "Faktioner",
+    "Personer",
+    "Övriga Platser",
+    "Inns"
+  ]
+}

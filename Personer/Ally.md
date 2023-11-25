@@ -1,0 +1,1 @@
+Bor numera på [[Sommastjärnans värdshus]]

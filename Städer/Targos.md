@@ -1,0 +1,1 @@
+Strax utanför hittade vi [[Pem Shekiz]] lik
