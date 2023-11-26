@@ -5,3 +5,6 @@ Jagade älg i skogen, hittade ett gammalt tempel, med en spegel, vilken gick sö
 Dödade druiden [[Ravisin]]
 
 Hittade [[Sommarstjärnan]] norr om skogen. Kunde kontrollera vädret en stund. [[Auril]] blev arg
+
+#butik
+Finns bensnide-butik

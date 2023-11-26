@@ -1,1 +1,1 @@
-Rykte om val med på på ryggen västeryt, skeppsklocka att kalla på valen med [[Båten på tundran]]
+#Rykten Rykte om val med på på ryggen västerut, skeppsklocka att kalla på valen med [[Båten på tundran]]

@@ -50,12 +50,56 @@
             "id": "5878271ad02ca35b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Övriga Platser/Båten på tundran.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d024b2387a6835af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a1c9709aa894d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personer/Beldora.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3d2b2cf862de9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -84,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "beld",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 364.5
   },
   "right": {
     "id": "5a3193370b66893c",
@@ -121,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-11-26.md"
+              }
             }
           }
         ]
@@ -178,39 +226,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5878271ad02ca35b",
+  "active": "c3d2b2cf862de9a8",
   "lastOpenFiles": [
-    "Städer/Dougans Hold.md",
-    "Händelse/Drake i Easthaven.md",
-    "Städer/Good Mead.md",
-    "Städer/Easthaven.md",
+    "Faktioner/Arkana Brödrarskapet.md",
+    "2023-11-26.md",
+    "Gudar/Auril.md",
+    "Inns/The Luskan Arms.md",
+    "Städer/Targos.md",
+    "Personer/Torga Icevein.md",
+    "Städer/Bremen.md",
+    "Prylar etc/Sea Queens Fury.md",
+    "Personer/Beldora.md",
+    "Personer/Fennec Räv.md",
+    "Personer/Ally.md",
+    "Personer/Cory.md",
+    "Personer/Vellynne harpell.md",
+    "Övriga Platser/Sommastjärnans värdshus.md",
+    "Städer/Bryn Shander.md",
+    "Städer/Lonelywood.md",
+    "Övriga Platser/Kamouraska.md",
+    "Personer/Hellrider.md",
+    "Övriga Platser/Dvärgdalen.md",
+    "Övriga Platser/Shaengarne River.md",
+    "Faktioner/Eviga Kylans förebud.md",
+    "Inns/Northlook.md",
+    "Personer/Grandolfa Muzgardt.md",
+    "Prylar etc/Magiska ägget.md",
+    "Personer/Arveiaturace.md",
+    "Övriga Platser/Båten på tundran.md",
     "Händelse",
-    "Städer/Ten-Towns.md",
-    "Städer/Termlaine.md",
-    "2023-11-25.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Faktioner/Arkana Brödrarskapet.md",
-    "Personer/Duvessa.md",
-    "Städer/Bryn Shander.md",
-    "Övriga Platser/Revels End.md",
-    "Övriga Platser/Dvärgdalen.md",
-    "Städer/Targos.md",
-    "Städer/Lonelywood.md",
-    "Städer/Caer Konig.md",
-    "Städer/Caer Dineval.md",
-    "Övriga Platser/Lac-dinnesheres.md",
-    "Gudar/Auril.md",
-    "Övriga Platser/Kamouraska.md",
-    "Övriga Platser/Kelvin's Cairn.md",
-    "Övriga Platser/Jättarnas heliga plats.md",
-    "Övriga Platser/Båten på tundran.md",
-    "Rykten/Rykten.md",
-    "Övriga Platser/Shaengarne River.md",
     "Rykten",
-    "Gudar/Ogma.md",
-    "Gudar/Lathander.md",
     "Gudar",
     "Allmänna Anteckningar",
     "Allmänna Anteckningar/Untitled",
