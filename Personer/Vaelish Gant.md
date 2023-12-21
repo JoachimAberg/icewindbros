@@ -1,1 +1,1 @@
-Magiker, [[Arkana Brödrarskapet]]. Försökte leda en kupp att ta över ledarskapet från [[Duvessa]] NÅNTING.
+Magiker, [[Arkana Brödrarskapet]]. Försökte leda en kupp att ta över ledarskapet från [[Duvessa Shane]] NÅNTING.
