@@ -1,0 +1,1 @@
+Adrian säger: Vi misstänker att Lood lider av delirium tremens
