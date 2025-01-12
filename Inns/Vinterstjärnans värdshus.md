@@ -1,0 +1,1 @@
+[[Bombus]] värdshus i [[Bryn Shander]]
